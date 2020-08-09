@@ -147,7 +147,7 @@ body {
 	}
 	.location {
 		text-align: center;
-		color: white;
+		color: rgba(255,215,0,0.75) /*white*/;
 		font-size: 0.8em;
 		display: block;
 		background-color: rgba(128,0,0,0.75) /*cornflowerblue*/;
@@ -215,7 +215,7 @@ body {
 	}
 	.location {
 		text-align: center;
-		color: white;
+		color: rgba(255,215,0,0.75) /*white*/;
 		font-size: 1.5em;
 		display: block;
 		background-color: rgba(128,0,0,0.75) /*cornflowerblue*/;
@@ -281,7 +281,7 @@ body {
 	}
 	.location {
 		text-align: center;
-		color: white;
+		color: rgba(255,215,0,0.75) /*white*/;
 		font-size: 1.8em;
 		display: block;
 		background-color: rgba(128,0,0,0.75) /*cornflowerblue*/;
