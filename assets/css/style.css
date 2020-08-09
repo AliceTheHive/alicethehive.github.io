@@ -14,7 +14,7 @@ body {
 
 .icons>a {
 	text-decoration: none;
-	color: rgba(255,215,0,0.90) /*darkgray*/;
+	color: rgba(255,215,0,0.75) /*darkgray*/;
 }
 
 .location>a {
@@ -74,7 +74,7 @@ body {
 		text-align: center;
 		margin-right: 0px;
 		margin-left: 0px;
-		color: rgba(255,215,0,0.90) /*darkgray*/;
+		color: rgba(255,215,0,0.75) /*darkgray*/;
 		margin-bottom: 40px;
 	}
 	.location {
@@ -142,7 +142,7 @@ body {
 		text-align: center;
 		margin-right: 0px;
 		margin-left: 0px;
-		color: rgba(255,215,0,0.90) /*darkgray*/;
+		color: rgba(255,215,0,0.75) /*darkgray*/;
 		margin-bottom: 40px;
 	}
 	.location {
@@ -210,7 +210,7 @@ body {
 		text-align: center;
 		margin-right: 0px;
 		margin-left: 0px;
-		color: rgba(255,215,0,0.90) /*darkgray*/;
+		color: rgba(255,215,0,0.75) /*darkgray*/;
 		margin-bottom: 40px;
 	}
 	.location {
@@ -276,7 +276,7 @@ body {
 		text-align: center;
 		margin-right: 0px;
 		margin-left: 0px;
-		color: rgba(255,215,0,0.90) /*darkgray*/;
+		color: rgba(255,215,0,0.75) /*darkgray*/;
 		margin-bottom: 40px;
 	}
 	.location {
