@@ -1,2 +1,2 @@
-# alicethehive.github.io
+# Github.io
 Github Pages
