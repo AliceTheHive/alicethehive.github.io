@@ -19,7 +19,7 @@ body {
 
 .location>a {
 	text-decoration: none;
-	color: rgba(255,215,0,75) /*white*/;
+	color: rgba(255,215,0,0.75) /*white*/;
 }
 
 .location:hover {
