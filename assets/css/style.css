@@ -23,7 +23,7 @@ body {
 }
 
 .location:hover {
-	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+	box-shadow: 0 8px 16px 0 rgba(255,215,0,0.25) /*rgba(0,0,0,0.2)*/;
 }
 
 
@@ -41,7 +41,7 @@ body {
 		background-image: -o-linear-gradient(45deg, rgba(128,0,128,0.75) 0%, rgba(14,57,238,0.75) 50%, rgba(128,0,0,0.75) 100%) /*white*/;
 		background-image: -ms-linear-gradient(45deg, rgba(128,0,128,0.75) 0%, rgba(14,57,238,0.75) 50%, rgba(128,0,0,0.75) 100%) /*white*/;
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(128,0,128,0.75)', endColorstr='rgba(128,0,0,0.75)',GradientType=1 );
-		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+		box-shadow: 0 4px 8px 0 rgba(255,215,0,0.25) /*rgba(0,0,0,0.2)*/;
 		transition: 0.3s;
 		width: 35%;
 		border-radius: 5px;
@@ -120,7 +120,7 @@ body {
 		background-image: -o-linear-gradient(45deg, rgba(128,0,128,0.75) 0%, rgba(14,57,238,0.75) 50%, rgba(128,0,0,0.75) 100%) /*white*/;
 		background-image: -ms-linear-gradient(45deg, rgba(128,0,128,0.75) 0%, rgba(14,57,238,0.75) 50%, rgba(128,0,0,0.75) 100%) /*white*/;
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(128,0,128,0.75)', endColorstr='rgba(128,0,0,0.75)',GradientType=1 );
-		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+		box-shadow: 0 4px 8px 0 rgba(255,215,0,0.25) /*rgba(0,0,0,0.2)*/;
 		transition: 0.3s;
 		width: 95%;
 		border-radius: 5px;
@@ -194,7 +194,7 @@ body {
 		background-image: -o-linear-gradient(45deg, rgba(128,0,128,0.75) 0%, rgba(14,57,238,0.75) 50%, rgba(128,0,0,0.75) 100%) /*white*/;
 		background-image: -ms-linear-gradient(45deg, rgba(128,0,128,0.75) 0%, rgba(14,57,238,0.75) 50%, rgba(128,0,0,0.75) 100%) /*white*/;
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(128,0,128,0.75)', endColorstr='rgba(128,0,0,0.75)',GradientType=1 );
-		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+		box-shadow: 0 4px 8px 0 rgba(255,215,0,0.25) /*rgba(0,0,0,0.2)*/;
 		transition: 0.3s;
 		width: 80%;
 		border-radius: 5px;
@@ -268,7 +268,7 @@ body {
 		background-image: -o-linear-gradient(45deg, rgba(128,0,128,0.75) 0%, rgba(14,57,238,0.75) 50%, rgba(128,0,0,0.75) 100%) /*white*/;
 		background-image: -ms-linear-gradient(45deg, rgba(128,0,128,0.75) 0%, rgba(14,57,238,0.75) 50%, rgba(128,0,0,0.75) 100%) /*white*/;
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(128,0,128,0.75)', endColorstr='rgba(128,0,0,0.75)',GradientType=1 );
-		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+		box-shadow: 0 4px 8px 0 rgba(255,215,0,0.25) /*rgba(0,0,0,0.2)*/;
 		transition: 0.3s;
 		width: 75%;
 		border-radius: 5px;
