@@ -7,7 +7,7 @@ body {
 	margin: 0px;
 	background-image: url(/assets/img/wallpaper.jpg);
 	background-repeat: repeat-y no-repeat;
-	background-size: cover;
+	background-size: 100% 100% /*cover*/;
 	background-position: center;
 	background-attachment: fixed;
 }
