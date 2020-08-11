@@ -25,6 +25,13 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/animate.css">
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:700" rel="stylesheet">
+   <style>
+	.visitorbr {
+         position:absolute;
+         bottom:0;
+         right:0;
+	}	
+   </style>
    </head>
    <body>
       <!--Card-->
@@ -76,5 +83,19 @@
          &copy; 2020 - &#39;Sharing Is Caring&#39; &#64; <a href="https://alicethehive.github.io/" style="text-decoration: none; color: rgba(255,215,0,0.75) /*white*/" target="_blank">TheHive&#174; of Transcendence</a>.
       </footer>
       <script type="text/javascript" color="255,0,0" pointColor="128,0,128" opacity='0.8' zIndex="100" count="200" src="assets/js/canvas-particles.js"></script>
+
+      <div class="visitorbr">
+      <script>
+	function randomnumber(){
+	//decrease/increase counter value (depending on perceived popularity of your site!)
+	var decrease_increase=50000
+	var counterdate=new Date()
+	var currenthits=counterdate.getTime().toString()
+	currenthits=parseInt(currenthits.substring(2,currenthits.length-4))+decrease_increase
+	document.write("Awesome Visitor Random# <b>"+currenthits+"</b> ! Have Fun!")
+	}
+	randomnumber()
+      </script>
+      </div>
    </body>
 </html>
